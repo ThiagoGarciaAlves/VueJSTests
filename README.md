@@ -2,9 +2,12 @@
 
 > Tests with VueJS
 
-## Startup project
+## Project startup
 
-# vue init webpack
+``` bash
+# project startup
+vue init webpack
+```
 
 ## Build Setup
 
